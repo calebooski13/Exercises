@@ -1,0 +1,23 @@
+{
+    "entries":[
+        {
+            "date": "08/12/2019",
+            "conceptsCovered": "Variables and Objects",
+            "entry":"We learned about objects and other data types today.A lot to take in",
+            "mood":"confused"
+        },
+        {
+            "date": "08/16/2019",
+            "conceptsCovered": "Basic DOM Components",
+            "entry":"I am slowly starting to catch on, I don't want to fall behind",
+            "mood":"In-between"
+        },
+        {
+            "date": "8/20/2019",
+            "conceptsCovered": "Event Delegation",
+            "entry":"Understanding more each day but need to do more research outside of class",
+            "mood":"In-between"
+        }
+        
+    ]
+}
